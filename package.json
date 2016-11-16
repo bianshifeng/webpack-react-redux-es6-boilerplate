@@ -62,5 +62,14 @@
     "react-router": "^2.5.2",
     "redux": "^3.5.2",
     "redux-thunk": "^2.1.0"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bianshifeng/webpack-react-redux-es6-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bianshifeng/webpack-react-redux-es6-boilerplate/issues"
+  },
+  "homepage": "https://github.com/bianshifeng/webpack-react-redux-es6-boilerplate#readme"
 }
